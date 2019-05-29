@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/7ab8446aabf9f9ba5ecefd46946faea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/301ea010d013ecd0d8b310a9477bce27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5e43b5461bf0c017081d542571f1f983/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/6954c0e78c06c220918d3bfbd1d40245/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/0409e4413d73d3e0fc67fb7eb9900db8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/3a3eae3a7659c88a7a6b8c0324369224/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5917a4bb8daec5ed3526babcbdffb1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f4a42d82b209204bd4a0549a81a9fcf7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f1b09912de23cc1a07383dea230c79cb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/a8b05c49f2da5f5283758463098c7b05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f33461db5d287bee31476ae11aafd3f6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/7ab8446aabf9f9ba5ecefd46946faea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/7ab8446aabf9f9ba5ecefd46946faea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/301ea010d013ecd0d8b310a9477bce27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/301ea010d013ecd0d8b310a9477bce27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5e43b5461bf0c017081d542571f1f983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5e43b5461bf0c017081d542571f1f983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/6954c0e78c06c220918d3bfbd1d40245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/6954c0e78c06c220918d3bfbd1d40245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/0409e4413d73d3e0fc67fb7eb9900db8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/0409e4413d73d3e0fc67fb7eb9900db8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/3a3eae3a7659c88a7a6b8c0324369224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/3a3eae3a7659c88a7a6b8c0324369224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5917a4bb8daec5ed3526babcbdffb1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/5917a4bb8daec5ed3526babcbdffb1c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f4a42d82b209204bd4a0549a81a9fcf7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f4a42d82b209204bd4a0549a81a9fcf7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f1b09912de23cc1a07383dea230c79cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f1b09912de23cc1a07383dea230c79cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/a8b05c49f2da5f5283758463098c7b05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/a8b05c49f2da5f5283758463098c7b05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f33461db5d287bee31476ae11aafd3f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-2/files-2.1/f33461db5d287bee31476ae11aafd3f6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
